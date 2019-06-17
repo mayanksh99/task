@@ -52,3 +52,9 @@ a {
 .pad {
     padding-top: 100px;
 }
+
+.shade {
+    -webkit-box-shadow: 0 8px 6px -6px #38d39f;
+    -moz-box-shadow: 0 8px 6px -6px #38d39f;
+    box-shadow: 0 8px 6px -6px #38d39f;
+}
